@@ -1,0 +1,6 @@
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\bin\Debug\UsingVar.exe.config
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\bin\Debug\UsingVar.exe
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\bin\Debug\UsingVar.pdb
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\obj\Debug\UsingVar.exe
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\obj\Debug\UsingVar.pdb
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\UsingVar\UsingVar\obj\Debug\MultiArguments.csprojResolveAssemblyReference.cache
