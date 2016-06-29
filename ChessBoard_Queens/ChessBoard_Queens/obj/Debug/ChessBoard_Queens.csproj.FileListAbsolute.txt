@@ -1,0 +1,2 @@
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\ChessBoard_Queens\ChessBoard_Queens\bin\Debug\ChessBoard_Queens.exe.config
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\ChessBoard_Queens\ChessBoard_Queens\obj\Debug\ChessBoard_Queens.csprojResolveAssemblyReference.cache
