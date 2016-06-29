@@ -1,0 +1,6 @@
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Classwork\C#Programming\UCSC_C#-Comprehensive_Course\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb
